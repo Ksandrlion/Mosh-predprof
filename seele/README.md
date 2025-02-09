@@ -14,3 +14,6 @@ https://github.com/Ksandrlion/Mosh-predprof.git
 2.3.запустить main
 2.4.установить qt на компьютер
 2.5. запустить проект
+
+Ссылка на видео ролик:
+https://vk.com/video676137263_456239017
